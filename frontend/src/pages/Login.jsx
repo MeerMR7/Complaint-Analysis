@@ -2,7 +2,7 @@ import { useState } from "react";
 import api from "../services/api";
 import { useNavigate } from "react-router-dom"
 import "../App.css"
-import {useEffect} from "react-router-dom"
+import { useEffect } from "react";
 
 function Login(){
 
